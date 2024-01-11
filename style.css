@@ -1,0 +1,11 @@
+.link {
+  font-size: 40px;
+  display: inline-block;
+  margin: 0;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
